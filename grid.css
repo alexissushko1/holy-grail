@@ -2,17 +2,6 @@
   display: grid;
 }
 
-.center-content {
-  display: grid;
-  grid-template-columns: 20% 60% 20%;
-  margin-top: 2em;
-}
-
-.content-picture {
-  width: 100%;
-  height: 17rem;;
-}
-
 header {
   display: grid;
   grid-template-columns: 1fr 2fr 0.5fr 0.5fr;
@@ -61,8 +50,19 @@ button {
   margin-top: 2.4em;;
 }
 
+.center-content {
+  display: grid;
+  grid-template-columns: 20% 60% 20%;
+  margin-top: 2em;
+}
+
 .sidebar-one {
   margin-right: 0.7em;
+}
+
+.content-picture {
+  width: 100%;
+  height: 17rem;;
 }
 
 .sidebar-two {
