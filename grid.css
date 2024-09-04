@@ -68,3 +68,17 @@ button {
 .sidebar-two {
   margin-left: 0.7em;
 }
+
+li {
+  font-weight: bold;
+  text-align: left;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  font-family: serif;
+  color: rgb(137, 0, 249);
+}
+
+ul {
+  background-color: rgb(166, 240, 240);
+  border: 3px solid rgb(130, 130, 235);
+}
