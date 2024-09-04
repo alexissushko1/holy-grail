@@ -2,3 +2,29 @@
   display: flex;
   flex-direction: column;
 }
+
+header {
+  display: flex;
+  flex-direction: row;
+}
+
+.logo {
+  flex: 1;
+  margin-left: 2em;
+  margin-top: 1em;
+}
+
+.search-bar {
+  flex: 2;
+  margin-top: 1em;
+}
+
+.login {
+  flex: 0.5;
+  margin-top: 1em;
+}
+
+.sign-up {
+  flex: 0.5;
+  margin-top: 1em;;
+}
