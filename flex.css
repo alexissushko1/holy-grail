@@ -123,3 +123,24 @@ ul {
   font-weight: bold;
   color: rgb(137, 0, 249);
 }
+
+footer {
+  border: 3px solid turquoise;
+  padding-bottom: 2em;
+  background-color: aquamarine;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 0.75em;
+  padding-bottom: 0.75em;
+  font-size: 1.2em;
+  color: rgb(133, 133, 248);
+}
+
+h2 {
+  text-align: center;
+  color:rgb(29, 220, 157);
+  font-weight: bold;
+  font-size: 2em;
+  margin-top: 0.3em;
+  margin-bottom: 0.3em;
+}
