@@ -29,14 +29,7 @@ header {
   margin-top: 1em;;
 }
 
-.sidebar-one {
-  flex: 1;
-}
-
-.content {
-  flex: 2;
-}
-
-.sidebar-two {
-  flex: 1;
+.center-content {
+  display: flex;
+  flex-direction: row;
 }
