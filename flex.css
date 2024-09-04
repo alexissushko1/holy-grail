@@ -62,7 +62,8 @@ button {
 }
 
 .sidebar-one {
-  flex: 0.75;
+  flex: 0.7;
+  margin-right: 0.7em;
 }
 
 .content {
@@ -76,4 +77,18 @@ button {
 
 .sidebar-two {
   flex: 0.75;
+}
+
+li {
+  font-weight: bold;
+  text-align: left;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  font-family: serif;
+  color: rgb(137, 0, 249);
+}
+
+ul {
+  background-color: rgb(166, 240, 240);
+  border: 3px solid rgb(130, 130, 235);
 }
