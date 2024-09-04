@@ -92,3 +92,34 @@ ul {
   background-color: rgb(166, 240, 240);
   border: 3px solid rgb(130, 130, 235);
 }
+
+.sidebar-two {
+  flex: 0.7;
+  margin-left: 0.7em;
+}
+
+.ad-one {
+  background-color: rgb(166, 240, 240);
+  border: 3px solid rgb(130, 130, 235);
+  margin-top: 1em;
+  padding-top: 2em;
+  padding-bottom: 2em;
+  text-align: center;
+  vertical-align: center;
+  font-family: serif;
+  font-weight: bold;
+  color: rgb(137, 0, 249);
+}
+
+.ad-two {
+  background-color: rgb(166, 240, 240);
+  border: 3px solid rgb(130, 130, 235);
+  margin-top: 1em;
+  padding-top: 2em;
+  padding-bottom: 2em;
+  text-align: center;
+  vertical-align: center;
+  font-family: serif;
+  font-weight: bold;
+  color: rgb(137, 0, 249);
+}
