@@ -1,0 +1,13 @@
+.grid-holy-grail {
+  display: grid;
+}
+
+.center-content {
+  display: grid;
+  grid-template-columns: 20% 60% 20%;
+}
+
+.content-picture {
+  width: 100%;
+  height: 17rem;;
+}
