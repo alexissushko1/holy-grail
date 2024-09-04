@@ -33,3 +33,19 @@ header {
   display: flex;
   flex-direction: row;
 }
+
+.sidebar-one {
+  flex: 0.75;
+}
+
+.content {
+  flex: 2;
+}
+
+.content-picture {
+  width: 100%;
+}
+
+.sidebar-two {
+  flex: 0.75;
+}
